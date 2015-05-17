@@ -193,7 +193,7 @@ weekendSum <- round(sum(splitByDay$weekend))
 
 On inspecting _Figure 4_, we see that:
 
-1. Overall daily activity has shiften towards the later intervals during weekends as compared to weekdays.
-2. Total steps on an Average weekday is approx. 10256 while Total steps on an Average weekend is approx. 12202.
+1. Overall daily activity has shifted towards the later intervals during weekends as compared to weekdays.
+2. Total steps on an Average weekday is approx. **10256** while Total steps on an Average weekend is approx. **12202**.
 
 

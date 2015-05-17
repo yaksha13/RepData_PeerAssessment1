@@ -174,7 +174,7 @@ weekendSum <- round(sum(splitByDay$weekend))
 
 On inspecting _Figure 4_, we see that:
 
-1. Overall daily activity has shiften towards the later intervals during weekends as compared to weekdays.
-2. Total steps on an Average weekday is approx. `r weekdaySum` while Total steps on an Average weekend is approx. `r weekendSum`.
+1. Overall daily activity has shifted towards the later intervals during weekends as compared to weekdays.
+2. Total steps on an Average weekday is approx. **`r weekdaySum`** while Total steps on an Average weekend is approx. **`r weekendSum`**.
 
 
